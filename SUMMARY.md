@@ -1,8 +1,8 @@
 # Table of contents
 
-* [notes](README.md)
+* [Notes](README.md)
 * [Section1](section1/README.md)
-  * [nice](section1/nice.md)
+  * [OH DIFFERENT TITLE](section1/nice.md)
 
 ## Section1
 
