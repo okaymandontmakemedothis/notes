@@ -7,10 +7,10 @@ A group is an abstract algebraic structure. It is formed if you have:
 
 The set and axiom, noted (G,•) must satisfy four requirements known as the group axioms:
 
-1. Closure: Ɐ(x,y) in G | x • y is in G
-2. Associativity: Ɐ(x,y,z) in G | (x • y) • z = x • (y • z)
-3. Identity element: ∃eⱯa in G | e • a = a • e = a
-4. Inverse element: ∃xⱯy in G | x • y = y • x = e  
+1. Closure: ``Ɐ(x,y) in G | x • y is in G``
+2. Associativity: ``Ɐ(x,y,z) in G | (x • y) • z = x • (y • z)``
+3. Identity element: ``∃eⱯa in G | e • a = a • e = a``
+4. Inverse element: ``∃xⱯy in G | x • y = y • x = e ``
 
 The set has to respect the existence of inverses, closure and identity element
 
